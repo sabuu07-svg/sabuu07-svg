@@ -39,8 +39,8 @@ Here are some of the cool things I'm working on (or planning to):
 ---
 
 ### 📫 Contact Me
-- 📧 Email: your.email@example.com  
-- 🌐 Website: [labib.github.io](https://labib.github.io) *(if you have/plan one)*  
+- 📧 Email: tmr.kiddo690@gmail.com  
+- 🌐 Website: [sabuu07-svg.github.io](https://sabuu07-svg.github.io) *(if you have/plan one)*  
 - 💬 DM me on [LinkedIn](https://linkedin.com) *(add if available)*
 
 ---
